@@ -11,7 +11,7 @@ Olá, eu sou o Diogo Nogueira
 <div align="center">
   <a href="https://github.com/DiogN">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiogN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogN&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogN&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
