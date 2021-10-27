@@ -2,7 +2,7 @@
 
 Olá, eu sou o Diogo Nogueira
 - 25 anos
-- 🤯 Atualmente estudando JavaScript.
+- 
 - 📚 Finalizando graduação de Adm. Pública
 - 🖌️ Designer gráfico.
 
