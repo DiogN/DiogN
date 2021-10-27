@@ -1,8 +1,8 @@
 # DiogN
 
 Olá, eu sou o Diogo Nogueira
+
 - 25 anos
-- 
 - 📚 Finalizando graduação de Adm. Pública
 - 🖌️ Designer gráfico.
 
